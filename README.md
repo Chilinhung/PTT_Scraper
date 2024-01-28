@@ -1,4 +1,4 @@
-# PTT Scraper README
+# PTT Scraper
 
 ## Introduction
 This code allows you to scape PTT (a popular forum in Taiwan) on the board of your choice with keyword(s) within a particular time range of your choice. 
